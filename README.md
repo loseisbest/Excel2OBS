@@ -15,5 +15,8 @@ excel2OBS is a very convenient software that make obs to read Excel data which i
 #### Step6：write the name of obs source that you want to receive the dat on the long Input box
 #### Step7：click the Updata then data will send to OBS
 #### Step8: click the checkbox on the right so the data will auto updata
-## The author's bilibili address
+## Download
+https://github.com/loseisbest/Excel2OBS/releases/tag/release-1.0
+
+## The tutorial address
 https://space.bilibili.com/16555556
