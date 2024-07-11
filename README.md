@@ -6,7 +6,7 @@ excel2OBS is a very convenient software that make obs to read Excel data which i
 ## Quick introduction
 
 ![GitHub Logo](https://raw.githubusercontent.com/loseisbest/Excel2OBS/3f0b28853c27fa3fe5e081b11a676d100b991aae/UI_updata.png)
-
+#### OBS websocket port：4444
 #### Step1：browse the excel 
 #### Step2：write the name of sheet
 #### Step3：choose the type in picture or text on the left  
